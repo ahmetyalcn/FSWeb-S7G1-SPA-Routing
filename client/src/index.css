@@ -20,7 +20,10 @@ body {
   padding: 4px 0;
   font-size: 0.8rem;
 }
-
+a{
+  text-decoration: none;
+  color: black;
+}
 .saved-list {
   background-color: #fff;
   border: 0;
